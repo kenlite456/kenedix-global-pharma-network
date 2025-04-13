@@ -1,0 +1,1 @@
+# kenedix-global-pharma-network
