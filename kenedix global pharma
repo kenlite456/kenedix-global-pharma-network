@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kenedix Global Pharma</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Kenedix Global Pharma</h1>
+    <p>Your trusted source for quality pharmaceutical products in Nigeria and beyond.</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Products</a></li>
+      <li><a href="#">About Us</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <h2>Our Featured Products</h2>
+    <ul>
+      <li>Pregnacare Max</li>
+      <li>Diabetic Supplements</li>
+      <li>Skincare Essentials</li>
+      <li>Cancer Support Medication</li>
+    </ul>
+
+    <h2>How to Order</h2>
+    <p>You can place your order and make payments via direct bank transfer to our official company account.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Kenedix Global Pharma | All rights reserved</p>
+  </footer>
+</body>
+</html>
